@@ -1,0 +1,6 @@
+Halo Kresna! :-)
+ini adalah resolusi saya.
+
+1. Membuat website dengan framework Python (Django & Flask)
+2. Mengikuti online CTF
+3. Mulai bug hunting di platform-platform bug bounty
