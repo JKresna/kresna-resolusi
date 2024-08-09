@@ -7,6 +7,11 @@ RENCANA RESOLUSI
     3. C & C++
     4. Java
     5. Assembly
+  + Hacking :
+    1. WebApp Hacking
+    2. CTF
+    3. Social Engineering
+    4. OSINT
   + Agama & Kitabnya
 - Tidur lebih awal
 - Mengutamakan kewajiban
